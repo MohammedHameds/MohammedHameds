@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Hamed</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center"I am a Software engineer specialized in AI specially Data Science,</h3>
+
+<h3 align="center"Machine Learning, Computer Vision and Natural Language Processing (NLP)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedhameds&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedhameds" /> </p>
 
